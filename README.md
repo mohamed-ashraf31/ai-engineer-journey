@@ -16,3 +16,7 @@ Software Engineering student at Istanbul Topkapı University, learning AI/ML fro
 - Set up learning environment (GitHub, Kaggle, Coursera)
 - Completed Kaggle Python: Hello Python + Syntax, Variables, and Numbers
 - First Python code written: variables, print statements, basic syntax
+### Day 2 - April 20, 2026
+- Completed Kaggle Python Lessons 3-4 (Functions, Booleans & Conditionals)
+- Finished Lesson 2 Exercise (Syntax, Variables, Numbers)
+- Learned: if/elif/else, boolean operators, default arguments, debugging
