@@ -10,6 +10,10 @@ A 6-month journey from software engineering student to AI Engineer.
 
 Software Engineering student at Istanbul Topkapı University, learning AI/ML from the ground up while balancing studies and part-time work.
 
+## Certifications
+
+- **Kaggle: Python** (April 21, 2026)
+
 ## Daily Log
 
 ### Day 1 - April 19, 2026
