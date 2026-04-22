@@ -21,5 +21,7 @@ Software Engineering student at Istanbul Topkapı University, learning AI/ML fro
 - Finished Lesson 2 Exercise (Syntax, Variables, Numbers)
 - Learned: if/elif/else, boolean operators, default arguments, debugging, list indexing & slicing
 ### Day 3 - April 21, 2026
-- Completed Kaggle Python Lessons 6-7 (Loops, Strings, Dictionaries)
-- Learned: for/while loops, list comprehensions, f-strings, dict methods
+- Completed Kaggle Python Lessons 6-8 (Loops, Strings, Dictionaries, External Libraries)
+- **Milestone: Finished entire Kaggle Python Course** 🎯
+- Earned: Kaggle Python Certificate
+- Ready to move on to Pandas next
