@@ -12,7 +12,7 @@ Software Engineering student at Istanbul Topkapı University, learning AI/ML fro
 
 ## Certifications
 
-- **Kaggle: Python** (April 21, 2026)
+- **Kaggle: Python** (April 24, 2026)
 
 ## Daily Log
 
