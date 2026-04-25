@@ -29,8 +29,12 @@ Software Engineering student at Istanbul Topkapı University, learning AI/ML fro
 - **Milestone: Finished entire Kaggle Python Course** 🎯
 - Earned: Kaggle Python Certificate
 - Ready to move on to Pandas next
-- ### Day 4 - April 24, 2026
+### Day 4 - April 24, 2026
 - Started Kaggle Pandas Course
 - Completed Lessons 1-2 (Creating/Reading/Writing, Indexing/Selecting/Assigning)
 - Set up local Jupyter Notebook environment on my laptop
 - Learned: DataFrame, Series, loc vs iloc, column/row selection
+### Day 5 - April 25, 2026
+- Completed Pandas Lesson 3 (Summary Functions and Maps)
+- Practiced on local dataset (students_data.csv)
+- Learned: mean/median/max, value_counts, map(), apply(), lambda functions
