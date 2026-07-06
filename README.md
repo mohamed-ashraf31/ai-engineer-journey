@@ -38,3 +38,19 @@ Software Engineering student at Istanbul Topkapı University, learning AI/ML fro
 - Completed Pandas Lesson 3 (Summary Functions and Maps)
 - Practiced on local dataset (students_data.csv)
 - Learned: mean/median/max, value_counts, map(), apply(), lambda functions
+- ## Day 6 - July 7, 2026 — Back on Track 💪
+### What I learned
+- Completed Kaggle Intro to ML (Decision Trees, Random Forests, Validation)
+- Completed Kaggle Intermediate ML (Missing Values, Categorical Encoding, Pipelines, XGBoost)
+- Watched YouTube course and practiced same concepts
+
+### What I practiced
+- Applied everything on local dataset in Jupyter Notebook
+- Built ML Pipeline from scratch
+- Practiced Mapping and Applying functions on real data
+
+### Status
+- ✅ Kaggle Intro to ML — Done
+- ✅ Kaggle Intermediate ML — Done
+- ✅ Practicing on local dataset daily
+- ⏭️ Next: Data Visualization
